@@ -1,16 +1,22 @@
-# etherx
+# EtherX
 
-A new Flutter application.
+An Ethereum-based cryptocurrency wallet made in Flutter.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### Tech-Stack used :
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter
+- Firebase
+- Metamask
+- Truffle Suite
+- Gnache
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+##### Flutter packages used :
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- firebase_auth
+- firebase_core
+- web3dart
+- velocity_x
+- http
+
+The dependencies are present in the `pubspec.yaml` file. Use `flutter pub get` to get the dependencies before using the libraries' functions.
