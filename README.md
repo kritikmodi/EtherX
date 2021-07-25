@@ -20,3 +20,5 @@ An Ethereum-based cryptocurrency wallet made in Flutter.
 - http
 
 The dependencies are present in the `pubspec.yaml` file. Use `flutter pub get` to get the dependencies before using the libraries' functions.
+
+_Please head over to the master branch to view the complete code!_
