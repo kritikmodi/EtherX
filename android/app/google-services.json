@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "13976850851",
+    "project_id": "ethertokenx",
+    "storage_bucket": "ethertokenx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13976850851:android:a703c90a83fc1fbb45ca16",
+        "android_client_info": {
+          "package_name": "com.example.etherx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13976850851-kqtqda9gjv7tos6u28tjqs46i7gkvof7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdFoIMsTR7RXI71CTrcu5rn-OgyBLl5Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13976850851-kqtqda9gjv7tos6u28tjqs46i7gkvof7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
